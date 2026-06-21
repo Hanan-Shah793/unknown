@@ -1,6 +1,5 @@
-# OIBSIP
 
-# Retail Sales Analysis - Task 1
+# Retail Sales Analysis 
 
 ## Overview
 
